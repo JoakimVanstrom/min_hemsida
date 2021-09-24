@@ -18,7 +18,7 @@ body {
 
 header {
     display: grid;
-    background-image: url(image/pacman-eating-dots.gif) ;
+    background-image: url(image/pacman-eating-dots.gif);
     background-repeat: no-repeat;
     margin-top: 0%;
     color: antiquewhite;
